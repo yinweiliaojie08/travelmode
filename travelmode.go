@@ -1,5 +1,5 @@
 // 最好是小写字母，并且最好不要带下划线，见名知义
-package cilicili
+package travelmode
 
 import (
 	"fmt"
